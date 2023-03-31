@@ -35,7 +35,7 @@ However, there are limitations to this model that are difficult to work around. 
 NPCs use the GPT-4 API to generate dialogue, response time varies and is of considerable worry. 
 Another concern is the programming languages that can interact with the GPT-4 API, possibly 
 limiting development.
-# 2 Scope and Limitations of this Technical Report 
+# 2 Scope and Limitations
 This report focuses on the concept and ideas surrounding NPC Engine. Development for this project 
 has not begun, therefore much of this report is subject to change and may be inaccurate. 
 # 3 NPC Engine Design 
